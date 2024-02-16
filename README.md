@@ -6,7 +6,7 @@ A simple bash script to install Kali Linux NetHunter in an unrooted android devi
 
 apt update && apt install git
 
-git clone 
+git clone https://github.com/SVRFINTECH/RAJ.git
 
 cd nethunter
 
